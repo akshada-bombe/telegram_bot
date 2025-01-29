@@ -1,0 +1,7 @@
+!pip install python-dotenv pymongo python-telegram-bot google-generativeai nest_asyncio
+!pip install --upgrade httpx
+!pip install python-telegram-bot --upgrade
+!pip install google-cloud-vision
+!pip install vaderSentiment
+!pip install --upgrade python-telegram-bot
+!pip install deep-translator
