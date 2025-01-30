@@ -31,6 +31,10 @@ This project is a Telegram chatbot powered by AI (Gemini API) that can interact 
     ```bash
     python bot.py
     ```
+5. if you use colab:
+   ```
+   !jupyter nbconvert --execute --to notebook --allow-errors '/content/telegram_bot/telegram_bot_main.ipynb'
+  ```
 
 ### Configuration
 - Update your `config.py` file with the correct Telegram Bot API token and Gemini API credentials.
